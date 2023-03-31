@@ -16,6 +16,5 @@ Chaque case numérotée doit avoir le même nombre de segments adjacents que son
 Ici, le joueur peut jouer autant de coups qu'il le souhaite et n'a pas de temps limite pour gagner.  
 On a également implémenté un solveur automatique de la grille que le joueur peut activer en cas de difficulté.
 
-
 **Documentation Technique et Utilisateur :**  
-Voir le fichier `rapport.pdf`
+Voir le fichier [rapport.pdf](https://github.com/syltran/slitherlink/blob/master/rapport.pdf)
